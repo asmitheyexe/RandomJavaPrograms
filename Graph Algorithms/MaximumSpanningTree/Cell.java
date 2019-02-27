@@ -13,6 +13,9 @@
  *      setItem(int item)
  *      int getKey()
  *      int getItem()
+
+
+    Provided by: Lydia Sinapova, Professor at Simpson College
  */
 public class Cell
 {

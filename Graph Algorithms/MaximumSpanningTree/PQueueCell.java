@@ -15,7 +15,7 @@
  *      void percolateDown(int hole, Cell element)
  *      
  *  
- * 
+ * Provided by: Lydia Sinapova, Professor at Simpson College
  */
 public class PQueueCell
 {
