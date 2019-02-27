@@ -1,0 +1,2 @@
+These programs are a collection of algorithms created by me while taking Simpson College's Introduction to Algorithms class Taught by Dr. Sinapova.
+Most of the Algorithms were created by me, but some were also provided by Dr. Sinapova.
